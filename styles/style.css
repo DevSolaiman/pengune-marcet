@@ -1,0 +1,39 @@
+  body{font-family: 'Poppins', sans-serif;}
+  .color-1 {
+      color: #FABE4C;
+  }
+  .color-2 {
+      color: #363958;
+  }
+  .color-3 {
+     background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+     color: white;
+     border-radius: 6px;
+  }
+  p{
+      color: rgb(68, 65, 65);
+  }
+  .nav-container{
+      background-image: linear-gradient(rgb(208, 206, 206), rgb(252, 252, 255), rgb(208, 206, 206));
+  }
+  .nav-text:hover a{
+    background-color: rgba(255, 207, 207, .7);
+    transition: .5s;
+    border-radius: 15px;
+  }
+  .card-rul{
+    background-color: #f1f1f1;
+    width: 370px;
+    width: 570px;
+  }
+  .cards-footers-btn{
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+  }
+  .cfb{
+      display: flex;
+  }
+  .footer-c{
+      background-color: wheat;
+      padding: 10px;
+  }
